@@ -15,6 +15,7 @@ Getting Started
 1. Clone the repository https://github.com/aleksa-qu/globalsqa
 2. Install dependencies npm install
 3. Install Playwright npm init playwright@latest
+4. Install dotenv: npm install dotenv --save
 
 Running the Tests
 1. Run all tests: npx playwright test
